@@ -1,0 +1,47 @@
+body {
+ background-image: url("pagebackround.jpg");
+ background-color: #cccccc;
+ background-size: 100%;
+ 
+}
+.intro{
+	text-align: center;
+}
+.table-center{
+	margin: 0 auto;
+}
+h1 {
+  color: white;
+  align-content: center;
+}
+p {
+  color: white;
+}	
+
+img {
+	width: 25%
+}
+table {
+  align: center	
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 60%;
+  border: 1px solid #ddd;
+}
+
+.hobbies{
+	font-size: 25px;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.quote{
+	font-size:35px;
+}
